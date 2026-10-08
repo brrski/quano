@@ -1,8 +1,7 @@
-datetime
-io
-altair
-yfinance
-numpy
-pandas
-requests
 streamlit
+yfinance
+pandas
+numpy
+altair
+requests
+lxml
