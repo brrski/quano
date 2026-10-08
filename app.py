@@ -307,7 +307,7 @@ def drilldown(data, ticker, p):
 # ----------------------------------------------------------------------------
 # Sidebar
 # ----------------------------------------------------------------------------
-st.title("📈 NASDAQ-100 Momentum & Volume Confirmation")
+st.title("📈 NASDAQ Momentum & Volume Scan")
 
 with st.sidebar:
     st.header("Universe")
