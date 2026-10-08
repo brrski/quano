@@ -1,0 +1,8 @@
+datetime
+io
+altair
+yfinance
+numpy
+pandas
+requests
+streamlit
